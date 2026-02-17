@@ -19,7 +19,7 @@ namespace problema.Services
         private readonly string rutaIndice = "libros.idx";
 
         /// <summary>
-        /// Inserta un nuevo libro (actualiza archivo de datos e índice)
+        /// Inserta un nuevo libro
         /// </summary>
         public void InsertarLibro(Libro libro)
         {

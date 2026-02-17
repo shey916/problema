@@ -14,7 +14,7 @@ namespace problema.Services
     public class AccesoDirecto
     {
         private readonly string rutaArchivo = "alumnos.dat";
-        private const int TamañoTablaHash = 1000; // c
+        private const int TamañoTablaHash = 1000; // cambios
 
         /// <summary>
         /// FUNCIÓN HASH: Calcula la posición física (RRN) a partir del ID

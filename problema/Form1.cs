@@ -20,7 +20,7 @@ namespace problema
             accesoISAM = new AccesoSecuencialIndexado();
             accesoDirecto = new AccesoDirecto();
 
-            // Configurar ComboBox
+            // Configurar comboBox
             cmbTipoOperacion.SelectedIndex = 0;
         }
 
